@@ -1,4 +1,4 @@
-package math
+package cmath
 
 func Abs[T RealNumber](x T) T {
 	if x < 0 {

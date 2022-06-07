@@ -1,4 +1,4 @@
-package math
+package cmath
 
 func Max[T RealNumber](a, b T) T {
 	if a < b {
